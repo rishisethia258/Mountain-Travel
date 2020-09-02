@@ -9,4 +9,4 @@ This is just a page of a fictitious travel company. I have made this page to che
 
 Visit the web page [here](https://rishisethia258.github.io/Mountain-Travel/).
 
-For better experience clone this repo and open index.html file in your browser.
+For better experience clone this repo and open /index.html file in your browser.
